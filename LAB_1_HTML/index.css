@@ -1,0 +1,44 @@
+.global
+{
+    padding-top: 20px;
+width: 600px;
+height: 850px;
+background-color : #9a9a9a;
+}
+.photo
+{
+    width: 550px;
+}
+.maket
+{
+    margin: 4%;
+    width: 550px;
+    background-color: beige;
+    height: 775px;
+    position: relative;
+}
+.Zagolovok
+{
+margin-left: 85px;
+}
+.Text
+{
+    margin: 5%;
+}
+.Silka
+{
+    width: 550px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #cccccc;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+}
+a
+{
+    text-decoration: none;
+    font-size: medium ;
+    padding: 30px;
+}
